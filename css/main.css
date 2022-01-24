@@ -1,0 +1,126 @@
+.main{
+    background-color: rgb(244, 250, 252);
+}
+.maindiv{
+      height: 110px;
+      font-size: 15px;
+      display:flex;
+      background-color: white;
+    
+}
+.p-text:hover{
+    font-weight: bold;
+    color:rgb(66, 66, 248);
+}
+.mobilesdiv{
+      height:110px;
+      width:84px;
+      text-align: center;
+      margin-left: 52px;
+    cursor: pointer;
+      
+}
+.mobileimg{
+      height:64px;
+      width:64px;
+      margin-top: 12px;
+      
+}
+.section1{
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 250px;
+    width:994px;
+    background-color: transparent;
+}
+.DealOfTheday{
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    background-color:white;
+}
+h3{
+    padding:9px 12px 0px ;
+    
+}
+.fa-clock-o{
+    color:rgb(172, 240, 252);
+}
+.timmer{
+    padding:14px 0px ;
+    color: rgb(82, 73, 73);
+    font-size: 12px;
+}
+.viewbutton{
+    color: white;
+    height:23px;
+    width: 76px;
+    font-size: 10px;
+    
+    background-color: rgb(55, 122, 247);
+    border:none;
+    outline: none;
+    margin: 10px 20px;
+    justify-content: space-between;
+    
+} 
+.itemsdiv{ 
+           margin-top: 2px;
+           height: 208px;
+           display:flex;
+           background-color:white;
+}
+.productdiv{
+           margin-left: 24px;
+            height: 208px;
+            width:110px;
+            text-align: center;
+            background-color:white;
+}
+.productimg{
+            padding-top: 20px;
+            padding-bottom: 5px;
+            height:117px;
+           
+}
+.productname{
+            
+}
+.offer{
+    color: green;
+    padding-top: 4px;
+    font-size: 10px;
+    height: 500;
+}
+.line3{
+    color: rgb(115, 117, 117);
+    padding-top: 4px;
+    font-size: 10px;
+}
+.section2{
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 250px;
+    width:1170px;
+    background-color:transparent;
+}
+.Instruments{
+    height: 50px;
+   
+    background-color:white;
+}
+.instrumentsHeading{
+    height: 50px;
+    width: 300px;
+
+    float:left;
+}
+.instrumrntbutton{
+    height: 50px;
+    float:right;
+}
+.shopnow{
+    color: rgb(115, 117, 117);
+    font-size: 10px;
+    padding-left: 12px;
+}
